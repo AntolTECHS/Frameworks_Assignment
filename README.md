@@ -7,18 +7,17 @@ Interactive exploration of COVID-19 research papers from the CORD-19 dataset.
 ## 📂 Project Structure
 
 Frameworks_Assignment/
-├── data/ # Contains metadata.csv (not included in repo)
-├── outputs/ # Generated plots
+├── data/                # Contains metadata.csv (not included in repo)
+├── outputs/             # Generated plots
 ├── scripts/
-│ ├── app.py # Streamlit app
-│ └── explore_data.py # Data exploration script
+│   ├── app.py           # Streamlit app
+│   └── explore_data.py  # Data exploration script
 ├── src/
-│ ├── init.py
-│ └── data_prep.py # Data loading and cleaning functions
-├── venv/ # Python virtual environment
+│   ├── __init__.py      # Makes src a Python package
+│   └── data_prep.py     # Data loading and cleaning functions
+├── venv/                # Python virtual environment
 ├── README.md
 └── REPORT.md
-
 
 ---
 
