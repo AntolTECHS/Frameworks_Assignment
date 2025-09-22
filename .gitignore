@@ -1,0 +1,11 @@
+# Ignore dataset
+data/metadata.csv
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore outputs
+outputs/
