@@ -58,7 +58,7 @@ Plots will be saved in outputs/.
 
 ##Run Streamlit app
 
-python -m streamlit run scripts/app.py
+streamlit run scripts/app.py
 
 
 ## 📝 Notes
