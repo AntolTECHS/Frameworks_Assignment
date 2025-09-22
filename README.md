@@ -4,7 +4,10 @@ Interactive exploration of COVID-19 research papers from the CORD-19 dataset.
 
 ---
 
-##  Frameworks_Assignment/
+# Project Structure
+
+```
+## Frameworks_Assignment/
 ├── data/                # Contains metadata.csv (not included in repo)
 ├── outputs/             # Generated plots
 ├── scripts/
@@ -16,6 +19,7 @@ Interactive exploration of COVID-19 research papers from the CORD-19 dataset.
 ├── venv/                # Python virtual environment
 ├── README.md
 └── REPORT.md
+
 
 
 ---
